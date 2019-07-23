@@ -1,4 +1,4 @@
-# 手机端单页
+# 手机端页面
 
 技术点：vue-cli , vant, mint-ui, vue-router, axios
 

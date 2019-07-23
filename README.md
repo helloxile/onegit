@@ -2,7 +2,7 @@
 
 ## 效果
 
-![WeChata0d2a220a1cee6aa50388acfba5ecaad](/Users/a1/Library/Containers/com.tencent.xinWeChat/Data/Library/Caches/com.tencent.xinWeChat/2.0b4.0.9/1ced2162db8d04fa70ec3db4c11f3078/dragImgTmp/WeChata0d2a220a1cee6aa50388acfba5ecaad.png)
+![index](/Users/a1/Desktop/qiandai/Vue-app/app-lezhiju/app-lvyou/static/index.png)
 
 技术点：vue-cli , vant, mint-ui, vue-router, axios
 

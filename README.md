@@ -1,9 +1,5 @@
 # 手机端单页
 
-## 效果
-
-![index](/Users/a1/Desktop/qiandai/Vue-app/app-lezhiju/app-lvyou/static/index.png)
-
 技术点：vue-cli , vant, mint-ui, vue-router, axios
 
 主要功能：首页轮播图，页面跳转，下拉加载更多
